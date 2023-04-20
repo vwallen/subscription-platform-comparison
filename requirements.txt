@@ -1,0 +1,4 @@
+-e git+https://github.com/altair-viz/altair.git@4103f322f48fa52ffa560697b0266e54a01a3b6a#egg=altair
+jupyterlab==3.6.3
+numpy==1.24.2
+pandas==2.0.0
